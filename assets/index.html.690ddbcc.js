@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as s,a as t,b as o}from"./app.5a40dfb9.js";const c={},r={id:"es6",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#es6","aria-hidden":"true"},"#",-1),n=o(" ES6"),d=[_,n];function i(h,f){return a(),s("h1",r,d)}var p=e(c,[["render",i]]);export{p as default};

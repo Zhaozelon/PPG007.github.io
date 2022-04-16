@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a,b as r}from"./app.5a40dfb9.js";const o={},c={id:"kubernetes",tabindex:"-1"},n=a("a",{class:"header-anchor",href:"#kubernetes","aria-hidden":"true"},"#",-1),_=r(" Kubernetes"),d=[n,_];function i(h,f){return t(),s("h1",c,d)}var b=e(o,[["render",i]]);export{b as default};

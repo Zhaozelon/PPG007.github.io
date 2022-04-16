@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as s,b as o}from"./app.5a40dfb9.js";const c={},r={id:"\u6B63\u5219\u8868\u8FBE\u5F0F",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#\u6B63\u5219\u8868\u8FBE\u5F0F","aria-hidden":"true"},"#",-1),n=o(" \u6B63\u5219\u8868\u8FBE\u5F0F"),d=[_,n];function i(h,f){return a(),t("h1",r,d)}var p=e(c,[["render",i]]);export{p as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s,b as o}from"./app.5a40dfb9.js";const c={},n={id:"ubuntu20-04-\u521D\u59CB\u5316",tabindex:"-1"},r=s("a",{class:"header-anchor",href:"#ubuntu20-04-\u521D\u59CB\u5316","aria-hidden":"true"},"#",-1),_=o(" Ubuntu20.04 \u521D\u59CB\u5316"),d=[r,_];function i(u,h){return t(),a("h1",n,d)}var b=e(c,[["render",i]]);export{b as default};

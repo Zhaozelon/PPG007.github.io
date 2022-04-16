@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as s,b as o}from"./app.5a40dfb9.js";const c={},r={id:"vue3",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#vue3","aria-hidden":"true"},"#",-1),n=o(" Vue3 \u{1F93A}"),d=[_,n];function i(h,f){return a(),t("h1",r,d)}var l=e(c,[["render",i]]);export{l as default};

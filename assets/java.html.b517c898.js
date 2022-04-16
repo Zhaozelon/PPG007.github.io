@@ -1,0 +1,3 @@
+import{_ as a,e as s}from"./app.5a40dfb9.js";const n={},e=s(`<h1 id="java" tabindex="-1"><a class="header-anchor" href="#java" aria-hidden="true">#</a> java</h1><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token comment"># on ubuntu20.04, the default jdk version is 11</span>
+<span class="token function">sudo</span> <span class="token function">apt</span> <span class="token function">install</span> default-jdk
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div>`,2);function t(c,r){return e}var d=a(n,[["render",t]]);export{d as default};

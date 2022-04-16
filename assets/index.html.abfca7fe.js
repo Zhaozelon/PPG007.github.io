@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s,b as o}from"./app.5a40dfb9.js";const c={},n={id:"netty",tabindex:"-1"},r=s("a",{class:"header-anchor",href:"#netty","aria-hidden":"true"},"#",-1),_=o(" Netty"),d=[r,_];function i(h,f){return t(),a("h1",n,d)}var p=e(c,[["render",i]]);export{p as default};

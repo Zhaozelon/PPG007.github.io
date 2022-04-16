@@ -1,0 +1,6 @@
+import{_ as a,r as t,o,c as r,a as n,d as c,F as l,b as s,e as p}from"./app.5a40dfb9.js";const i={},u=n("h1",{id:"nutstore",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#nutstore","aria-hidden":"true"},"#"),s(" nutstore")],-1),d={href:"https://www.jianguoyun.com/s/downloads/linux",target:"_blank",rel:"noopener noreferrer"},m=s("nutstore"),_=s("\u3002"),h=p(`<div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token comment"># Ubuntu20.04 should install python2.7 first</span>
+<span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> python
+<span class="token comment"># then install nutstore fron deb</span>
+<span class="token comment"># fix error</span>
+<span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> -f
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div>`,1);function b(f,k){const e=t("ExternalLinkIcon");return o(),r(l,null,[u,n("p",null,[n("a",d,[m,c(e)]),_]),h],64)}var g=a(i,[["render",b]]);export{g as default};

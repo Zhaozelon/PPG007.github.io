@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,F as s,a,b as o}from"./app.5a40dfb9.js";var c="/JavaIO/IO.jpg";const n={},_=a("h1",{id:"java-io",tabindex:"-1"},[a("a",{class:"header-anchor",href:"#java-io","aria-hidden":"true"},"#"),o(" Java IO")],-1),d=a("p",null,[a("img",{src:c,alt:"JavaIO\u8868"})],-1);function i(l,h){return r(),t(s,null,[_,d],64)}var f=e(n,[["render",i]]);export{f as default};

@@ -1,0 +1,2 @@
+import{_ as n,e as a}from"./app.5a40dfb9.js";const s={},e=a(`<h1 id="nginx" tabindex="-1"><a class="header-anchor" href="#nginx" aria-hidden="true">#</a> nginx</h1><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token function">sudo</span> <span class="token function">apt-get</span> <span class="token function">install</span> nginx
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div>`,2);function t(c,i){return e}var o=n(s,[["render",t]]);export{o as default};

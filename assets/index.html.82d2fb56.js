@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a,b as r}from"./app.5a40dfb9.js";const c={},s={id:"rpc-protobuf",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#rpc-protobuf","aria-hidden":"true"},"#",-1),n=r(" RPC&Protobuf"),d=[_,n];function i(f,h){return o(),t("h1",s,d)}var u=e(c,[["render",i]]);export{u as default};
